@@ -1,0 +1,11 @@
+{
+  "title": "Supply Chain & Inventory Control",
+  "domain": "supply_chain",
+  "primary_dimension": "supplier",
+  "kpis": [
+    "On-time Delivery",
+    "Stockout Rate",
+    "Inventory Turnover",
+    "Supplier Defect Rate"
+  ]
+}
